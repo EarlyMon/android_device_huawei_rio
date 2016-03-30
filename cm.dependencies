@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_kernel_huawei_rio",
+    "target_path": "kernel/huawei/rio"
+  }
+]
